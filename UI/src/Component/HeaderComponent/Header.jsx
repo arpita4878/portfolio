@@ -5,9 +5,6 @@ function Header() {
   return (
     <>
 
-
-   
-
   <header id="header" class="header dark-background d-flex flex-column">
     <i class="header-toggle d-xl-none bi bi-list"></i>
 

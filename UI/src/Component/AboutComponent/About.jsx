@@ -11,7 +11,7 @@ function About() {
       
       <div className="container section-title" data-aos="fade-up">
         <h2>About Me</h2>
-        <p className="subtitle">Let me introduce myself...</p>
+        <p className="subtitle">I'm a curious mind with a love for coding and a passion for problem-solving. As a dedicated developer, I find joy not just in writing code—but in debugging it, too. I believe every bug tells a story, and fixing it is part of the craft. Outside the screen, I'm an avid reader and a chess enthusiast, always drawn to strategy, logic, and lifelong learning. Whether it's building smarter software or improving my endgame on the chessboard, I enjoy challenges that push me to grow.I'm currently excited about dream project and always looking for new opportunities to collaborate with innovative teams.</p>
         
       </div>
        <div className="container" data-aos="fade-up" data-aos-delay="100">
@@ -34,6 +34,7 @@ function About() {
                  
                   <li><i className="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+91 799 934 3606</span></li>
                   <li><i className="bi bi-chevron-right"></i> <strong>City:</strong> <span>Indore</span></li>
+                   <li><i className="bi bi-chevron-right"></i> <strong>Website:</strong> <a href="https://arpitaportfolio-ten.vercel.app/">arpitaportfolio-ten.vercel.app/</a></li>
                 </ul>
               </div>
               <div className="col-lg-6">
