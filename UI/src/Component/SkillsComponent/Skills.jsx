@@ -13,7 +13,7 @@ function Skills() {
     
       <div class="container section-title" data-aos="fade-up">
         <h2>Skills</h2>
-        <p>I’m a Creative director based on New York, who loves clean, simple & unique design. I also enjoy crafting</p>
+        <p>I’m a Creative Fresher based on Indore, who loves clean, simple & unique design. I also enjoy crafting</p>
       </div>
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">

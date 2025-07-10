@@ -30,7 +30,7 @@ the academic field.</p>
               <ul>
                 <li>Indore</li>
                 <li>+91 799 934 3606</li>
-                <li>arpitaseth192.com</li>
+                <li>arpitaseth192@gmail.com</li>
               </ul>
             </div>
 
@@ -46,7 +46,7 @@ the academic field.</p>
              <div class="resume-item">
               <h4>Intermidiate (PCM)</h4>
               <h5>2018 - 2019</h5>
-              <p><em>RAdarsh Bal Vinay Mandir,Indore</em></p>
+              <p><em>Adarsh Bal Vinay Mandir,Indore</em></p>
               <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
             </div>
 

@@ -30,7 +30,7 @@ function About() {
               <div className="col-lg-6">
                 <br />
                 <ul>
-                  <li><i className="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>16 May 2002</span></li>
+                  <li><i className="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>16 Mar 2002</span></li>
                  
                   <li><i className="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+91 799 934 3606</span></li>
                   <li><i className="bi bi-chevron-right"></i> <strong>City:</strong> <span>Indore</span></li>
@@ -40,7 +40,7 @@ function About() {
                 <br />
                 <ul>
                   <li><i className="bi bi-chevron-right"></i> <strong>Age:</strong> <span>23</span></li>
-                  <li><i className="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bechlore</span></li>
+                  <li><i className="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor</span></li>
                   <li><i className="bi bi-chevron-right"></i> <strong>Email:</strong> <span>arpitaseth192@gmail.com</span></li>
                   
                 </ul>
