@@ -73,7 +73,6 @@ function Portfolio() {
                   <h4>Granth Magazine</h4>
                   <p>It is an Current Affair Magazine by Desire To Learn.</p>
                   <a href="assets/img/granth_img.jpg" title="Branding 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
 
@@ -85,8 +84,7 @@ function Portfolio() {
                 <div class="portfolio-info">
                   <h4>Game Changer Magazine</h4>
                   <p>It is an Question Bank Magazine by Desire To Learn.</p>
-                  <a href="assets/img/img001.jpg" title="Branding 2" data-gallery="portfolio-gallery-book" ><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <a href="assets/img/img001.jpg" title="Branding 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div>
             </div>{/* End Portfolio Item */}
@@ -99,8 +97,7 @@ function Portfolio() {
                 <div class="portfolio-info">
                   <h4>Granth Magazine</h4>
                   <p>It is an Current Affair Magazine by Desire To Learn</p>
-                  <a href="assets/img/granth_01.jpg" title="Branding 3" data-gallery="portfolio-gallery-book" ><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <a href="assets/img/granth_01.jpg" title="Branding 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div>
             </div>{/* End Portfolio Item */}
