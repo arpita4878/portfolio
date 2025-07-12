@@ -110,13 +110,8 @@ function Portfolio() {
 
     </section>{/* /Portfolio Section */}
 
-
-
-
      </main>
-    
-
-
+  
    
     </>
   )
