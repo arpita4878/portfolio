@@ -18,9 +18,9 @@ function Header() {
     </a>
 
     <div class="social-links text-center">
-      <a href="" target='_blank' class="twitter"><i class="bi bi-twitter-x"></i></a>
+      <a href="https://x.com/sethjii192" target='_blank' class="twitter"><i class="bi bi-twitter-x"></i></a>
       <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-      <a href="#" class="google-plus"><i class="bi bi-github"></i></a>
+      <a href=" https://github.com/arpita4878" class="google-plus"><i class="bi bi-github"></i></a>
       <a href="www.linkedin.com/in/arpita-seth-3ba54a325" target='_blank' class="linkedin"><i class="bi bi-linkedin"></i></a>
     </div>
 

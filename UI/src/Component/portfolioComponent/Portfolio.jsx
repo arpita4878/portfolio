@@ -34,7 +34,9 @@ function Portfolio() {
                 <div class="portfolio-info">
                   <h4>Shipping War</h4>
                   <p>It is an logistics and freight management application for consignment handling. </p>
-                  <a href="assets/img/shipping_War.jpg" title="Shipping War" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="assets/img/shipping_WAR.png" title="Shipping War" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="https://tinyurl.com/S16G22" title="Shipping War" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-link"></i></a>
+
                 </div>
               </div>
             </div>{/* End Portfolio Item */}
@@ -42,11 +44,13 @@ function Portfolio() {
 
               <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
               <div class="portfolio-content h-100">
-                <img src="assets/img/portfolioo.jpg" class="img-fluid" alt=""/>
+                <img src="assets/img/PORTFOLIO.png" class="img-fluid" alt=""/>
                 <div class="portfolio-info">
                   <h4>Portfolio</h4>
                   <p>It's My Portfolio...</p>
                   <a href="assets/img/portfolioo.jpg" title="App 3" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+              <a href="https://tinyurl.com/AS1622" title="Shipping War" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-link"></i></a>
+
                 </div>
               </div>
             </div>{/* End Portfolio Item */}
