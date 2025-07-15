@@ -33,8 +33,7 @@ function Portfolio() {
                 <img src="assets/img/shipping_WAR.png" class="img-fluid" alt=""/>
                 <div class="portfolio-info">
                   <h4>Shipping War</h4>
-                  <p>It is an logistics and freight management application for consignment handling. </p>
-                  <a href="https://tinyurl.com/S16G22" title="Shipping War" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-link"></i></a>
+                  <a href="https://tinyurl.com/S16G22"  target='_blank' title="Shipping War" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-link"></i></a>
 
                 </div>
               </div>
