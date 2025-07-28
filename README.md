@@ -1,4 +1,4 @@
-# 🧑‍💻 Arpita Seth – Developer Portfolio
+#  Arpita Seth – Full Stack Developer Portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/arpita4878/portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/arpita4878/portfolio?style=social)
