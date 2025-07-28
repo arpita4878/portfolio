@@ -10,7 +10,7 @@
 
 This is my personal portfolio website, showcasing my skills, projects, education, and experience as a web developer. Built using the **MERN stack**, the portfolio demonstrates responsive design, clean UI, and a passion for building meaningful digital solutions.
 
-🔗 **Live Demo**: [https://your-portfolio-url.com](https://arpitaportfolio-ten.vercel.app/) <!-- Replace this with actual URL -->
+🔗 **Live Demo**: (https://arpitaportfolio-ten.vercel.app/) <!-- Replace this with actual URL -->
 
 ---
 
