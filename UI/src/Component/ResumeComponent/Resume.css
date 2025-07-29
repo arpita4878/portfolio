@@ -1,0 +1,98 @@
+.resume {
+  background: #f5f7fa;
+  padding: 60px 20px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.resume__container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.resume__header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.resume__header h2 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.resume__header p {
+  font-size: 1rem;
+  color: #555;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.resume__grid {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.resume__column {
+  flex: 1;
+  min-width: 300px;
+}
+
+.resume__section {
+  margin-bottom: 40px;
+}
+
+.resume__section h3 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  border-left: 4px solid #007bff;
+  padding-left: 12px;
+}
+
+.resume__item {
+  background: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.06);
+  border-left: 4px solid #007bff;
+  transition: transform 0.3s;
+}
+
+.resume__item:hover {
+  transform: translateY(-5px);
+}
+
+.resume__item h4 {
+  font-size: 1.2rem;
+  margin-bottom: 6px;
+  color: #222;
+}
+
+.resume__item span {
+  display: block;
+  font-size: 0.9rem;
+  color: #777;
+  margin-bottom: 8px;
+}
+
+.resume__item ul {
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+.resume__item ul li {
+  list-style: disc;
+  margin-bottom: 6px;
+}
+@media (max-width: 768px) {
+  .resume__grid {
+    flex-direction: column;
+  }
+}
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

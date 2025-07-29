@@ -48,12 +48,12 @@ function About() {
               </div>
             </div> 
             <br />
-            <div class="text-container">
+            {/* <div class="text-container">
                             <h2>Why Work With Us?</h2>
                             <p>I am a great communicator and love to invest the necessary time to understand the customer's problem very well.</p>
                            
                        
-                        </div>
+                        </div> */}
             
           </div>
         </div>

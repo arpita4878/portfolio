@@ -22,7 +22,7 @@ function Service() {
        <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
   <div class="icon flex-shrink-0"><i class="bi bi-lightbulb"></i></div>
   <div>
-    <h4 class="title"><a href="service-details.html" class="stretched-link">Innovative Solution Design</a></h4>
+    <h4 class="title">Innovative Solution Design</h4>
     <p class="description">
       I craft tailored tech solutions that align with your vision and goals, blending creativity with practicality to solve complex challenges and drive meaningful impact.
     </p>
@@ -34,7 +34,7 @@ function Service() {
          <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
   <div class="icon flex-shrink-0"><i class="bi bi-bug"></i></div>
   <div>
-    <h4 class="title"><a href="service-details.html" class="stretched-link">Code Optimization & Debugging</a></h4>
+    <h4 class="title">Code Optimization & Debugging</h4>
     <p class="description">
       I improve existing codebases by identifying bugs, optimizing performance, and enhancing reliability. My goal is to make your applications run smoother, faster, and error-free.
     </p>
@@ -46,7 +46,7 @@ function Service() {
   <div class="icon flex-shrink-0"><i class="bi bi-code-slash"></i></div>
   <div>
     <h4 class="title">
-      <a href="service-details.html" class="stretched-link">MERN Stack Development</a>
+      MERN Stack Development
     </h4>
     <p class="description">
       I build fast, scalable, and modern web applications using the MERN stack. From backend APIs to dynamic user interfaces, I deliver end-to-end solutions tailored to your business needs.
