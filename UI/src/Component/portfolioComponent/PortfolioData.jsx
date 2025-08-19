@@ -14,8 +14,8 @@ const portfolioData = [
     description: "My personal portfolio showcase.",
     category: "App",
     imageSrc: "assets/img/PORTFOLIO.png",
-    link: "https://tinyurl.com/AS1622",
-    tags: ["React", "Node.js", "Express", "MongoDB"]
+    link: "https://arpita-portfolio-eta.vercel.app/",
+    tags: ["Angular", "Node.js", "Express", "MongoDB"]
   },
   {
     id: 3,
